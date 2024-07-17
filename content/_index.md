@@ -1,5 +1,5 @@
 ---
-title: 'বাড়ি'
+title: 'HOME'
 date: 2023-10-24
 type: landing
 sections:

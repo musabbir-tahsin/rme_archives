@@ -1,5 +1,5 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
+title: 🎉 বাংলা ডেমো ফর বান্না:সহজেই আপনার নিজের সহজ কিন্তু অত্যন্ত কাস্টমাইজযোগ্য ব্লগ তৈরি করুন
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
 date: 2023-10-27
 
